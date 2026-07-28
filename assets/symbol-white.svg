@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="100%" height="100%">
+  <rect width="200" height="200" fill="none"/>
+  <!-- ADENTECHIO Symbol Geometry -->
+  <g fill="#FFFFFF">
+    <!-- Outer Chevron -->
+    <polygon points="100,25 175,155 145,155 100,77 55,155 25,155"/>
+    <!-- Inner Parallel Structural Chevron -->
+    <polygon points="100,95 125,138 105,138 100,129 95,138 75,138"/>
+  </g>
+</svg>
