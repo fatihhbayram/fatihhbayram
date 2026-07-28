@@ -1,3 +1,9 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fatihhbayram/fatihhbayram/main/assets/symbol-white.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fatihhbayram/fatihhbayram/main/assets/symbol-black.svg">
+  <img alt="Adentechio" src="https://raw.githubusercontent.com/fatihhbayram/fatihhbayram/main/assets/symbol-black.svg" width="36">
+</picture>
+
 # Fatih Bayram
 
 AI Engineer in İstanbul. Thirteen years of technical service — telecommunications,
